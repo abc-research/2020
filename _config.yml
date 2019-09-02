@@ -161,7 +161,8 @@ cfp:
     - item: Business applications
     - item: Tools for industry
     - item: ABC in the wild
-  format: TBA
+  format: 
+     - item: TBA
 #    - item: IEEE conference format (button below).
 #    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
