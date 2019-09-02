@@ -1,5 +1,5 @@
 # Site settings
-title: ABC2019
+title: ABC2020
 email: abc@sozolab.jp
 url: https://abc-research.github.io
 description: "International Conference on Activity and Behavior Computing (ABC), which includes Human Activity Recognition with mobile / environmental sensors in ubiquitous / pervasive domains and with cameras in vision domains, and Human Behavior Analysis for long-term health care, rehabilitation, emotion recognition, human interaction, and so on."
@@ -7,10 +7,10 @@ keywords: "activity recognition, behavior analysis, international conference, ac
 conf_title1: "International Conference on"
 conf_title2: "Activity and Behavior Computing"
 meta_author: Sozo Inoue
-location: Spokane Campus, Eastern Washington University, USA
-date: May. 30 - Jun. 2, 2019
+location: ??Spokane Campus, Eastern Washington University, USA
+date: ??May. 30 - Jun. 2, 2020
 conjunction:
-  name: ICIEV&IVPR2019
+  name: ICIEV&IVPR2020
   url: http://cennser.org/ICIEV/
 
 # Google webmaster tools
@@ -163,19 +163,19 @@ cfp:
     - item: ABC in the wild
   format:
     - item: IEEE conference format (button below).
-    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2019 proceedings. "
+    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
     - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
-    - item: Submit from Microsoft CMT for ICIEV2019  (button below) and select the ABC.
+    - item: Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC.
   dates:
     - name: Paper submission
-      date: <strike>Dec. 17, 2018</strike> Jan. 15, 2019 (Anywhere on Earth)!
+      date: <strike>Dec. 17, 2018</strike> Jan. 15, 2020 (Anywhere on Earth)!
     - name: Review result
-      date: <strike>Jan. 31, 2019</strike> Feb. 15, 2019
+      date: <strike>Jan. 31, 2020</strike> Feb. 15, 2020
     - name: Camera ready
-      date: <strike>Feb. 12, 2019</strike> <b style="color:pink">Mar. 22, 2019</b>
+      date: <strike>Feb. 12, 2020</strike> <b style="color:pink">Mar. 22, 2020</b>
     - name: Conference
-      date: <strike>Apr. 26 - 29, 2019</strike> May, 30 - Jun. 2, 2019
-  submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2019
+      date: <strike>Apr. 26 - 29, 2020</strike> May, 30 - Jun. 2, 2020
+  submit_url: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICIEVIVPR2020
   template_url: https://www.ieee.org/conferences/publishing/templates.html
 
 
