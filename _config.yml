@@ -168,12 +168,12 @@ cfp:
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
 #    - item: Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC.
   dates:
-#    - name: Paper submission
-#      date: <strike>Dec. 17, 2018</strike> Jan. 15, 2020 (Anywhere on Earth)!
-#    - name: Review result
-#      date: <strike>Jan. 31, 2020</strike> Feb. 15, 2020
-#    - name: Camera ready
-#      date: <strike>Feb. 12, 2020</strike> <b style="color:pink">Mar. 22, 2020</b>
+    - name: Paper submission
+      date: Jan. 17th, 2020 (Anywhere on Earth)!
+    - name: Review result
+      date: Mar. 13th, 2020
+    - name: Camera ready
+      date: Apr. 20th, 2020
     - name: Conference
       date: Jun., 22nd - Jun. 25th, 2020
   submit_url: TBA
