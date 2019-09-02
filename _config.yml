@@ -49,27 +49,27 @@ about:
 
 # Committee members
 committee:
-  - role: General Chairs
+  - role: General Chairs (Tentative)
     member:
       - name: Sozo Inoue
         affil: Kyushu Institute of Technology / Riken, Japan
       - name: Atiqur Rahman Ahad
         affil: University of Dhaka, Bangladesh / Osaka University, Japan
-  - role: Program Chairs
+  - role: Program Chairs (Tentative)
     member:
-      - name: Ren Ohmura
+      - name: Ren Ohmura (Tentative)
         affil: Toyohashi University of Technology, Japan
-      - name: Kazuya Murao
+      - name: Kazuya Murao (Tentative)
         affil: Ritsumeikan University, Japan
-  - role: Publicity Chair
+  - role: Publicity Chair (Tentative)
     member:
       - name: Paula Lago
         affil: Kyushu Institute of Technology, Japan
-  - role: Publication Chair
+  - role: Publication Chair (Tentative)
     member:
       - name: Tsuyoshi Okita
         affil: Kyushu Institute of Technology, Japan
-  - role: Advisory Board
+  - role: Advisory Board (Tentative)
     member:
       - name: Paul Lukowicz
         affil: DFKI, Germany
@@ -81,13 +81,13 @@ committee:
         affil: Karlsruhe Institute of Technology, Germany
       - name: Jeffry Cohn
         affil: University of Pittsburgh, USA
-  - role: Secretaries
+  - role: Secretaries (Tentative)
     member:
       - name: Tahera Hossain
         affil: Kyushu Institute of Technology, Japan
       - name: Moe Matsuki
         affil: Kyushu Institute of Technology, Japan
-  - role: Program Committee
+  - role: Program Committee (Tentative)
     member:
       - name: Kristof Van Laerhoven
         affil: University of Siegen, Germany
