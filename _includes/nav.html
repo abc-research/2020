@@ -18,6 +18,13 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+
+                    {% for item in site.navitems %}
+                       <li class="page-scroll">
+                           <a href="{{item.link}}">{{item.name}}</a>
+                       </li>
+                    {% endfor %}
+                   
                     <li class="page-scroll">
                         <a href="#about">About</a>
                     </li>
