@@ -18,10 +18,10 @@ navitem:
     url: "#about"
   - name: CFP
     url: "#cfp"
-  - name: Committee
-    url: "#committee"
   - name: Venue
     url: "#venue"
+  - name: Committee
+    url: "#committee"
   
 
 # Google webmaster tools
