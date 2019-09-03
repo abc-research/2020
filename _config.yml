@@ -12,6 +12,11 @@ date: Jun. 22nd - 25th, 2020
 conjunction:
   name: ICIEV&IVPR2020
   url: http://cennser.org/ICIEV/
+  
+navitem:
+  - name: Program
+  - url: "#program"
+  
 
 # Google webmaster tools
 google_verify:
