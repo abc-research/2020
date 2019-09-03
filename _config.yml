@@ -15,7 +15,13 @@ conjunction:
   
 navitem:
   - name: Program
-  - url: "#program"
+    url: "#program"
+  - name: About
+    url: "#cfp"
+  - name: Committee
+    url: "#committee"
+  - name: Venue
+    url: "#venue"
   
 
 # Google webmaster tools
