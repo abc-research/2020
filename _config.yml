@@ -14,9 +14,9 @@ conjunction:
   url: http://cennser.org/ICIEV/
   
 navitem:
-  - name: Program
-    url: "#program"
   - name: About
+    url: "#about"
+  - name: CFP
     url: "#cfp"
   - name: Committee
     url: "#committee"
