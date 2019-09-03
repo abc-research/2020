@@ -190,8 +190,9 @@ cfp:
   submit_url: TBA
   template_url: TBA
 
-
-
+venue:
+  - text: ABC2020 will be held in Kitakyushu-city, Fukuoka, Japan. There are many natural and industrial attractions.
+  - text: for more information, please see <a href="http://cennser.org/ICIEV/travel-information.html">here</a>.
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
