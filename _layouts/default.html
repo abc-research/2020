@@ -5,7 +5,7 @@
     {% include nav.html %}
 
     {% for item in site.include %}
-        {% include {{item.file}}%}
+        {{item.file}}
     {% endfor %}
         
     {% include header.html %}
