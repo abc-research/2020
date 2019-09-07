@@ -24,7 +24,16 @@ navitem:
     url: "#committee"
   - name: Related
     url: "#related"
+    
+include:
+  - file: header.html
+  - file: about.html
+  - file: cfp.html
+  - file: venue.html
+  - file: committee.html
+  - file: series.html
   
+
 
 # Google webmaster tools
 google_verify:
