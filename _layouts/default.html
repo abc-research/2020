@@ -3,6 +3,11 @@
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}
+
+    {% for item in site.include %}
+        {% include {item.file}%}
+    {% endfor %}
+        
     {% include header.html %}
     {% include about.html %}
     {% include cfp.html %}
