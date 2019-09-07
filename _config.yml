@@ -22,8 +22,8 @@ navitem:
     url: "#venue"
   - name: Committee
     url: "#committee"
-  - name: Related
-    url: "#related"
+  - name: Series
+    url: "#series"
     
 include:
   - file: header.html
