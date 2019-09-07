@@ -218,8 +218,14 @@ social:
     url: http://github.com/abc-research
 
 series:
-  - text: hoge
-    url: hogheoge
+  - text: "ABC2019: International Conference on Activity and Behavior Computing"
+    url: https://abc-research.github.io/2019
+  - text: "Nurse Care Activity Recognition Challenge 2019"
+    url: https://hasc-nurse-challenge.github.io
+  - text: "HASCA2019: International Workshop on Human Activity Sensing Corpus and Applications"
+    url: http://hasca2019.hasc.jp
+  - text: "Cooking Activity Recognition Challenge 2020"
+    url: https://abc-research.github.io/cook2020
 
 
 # Postal address (add as many lines as necessary)
