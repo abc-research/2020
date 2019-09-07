@@ -14,7 +14,7 @@
                   <h3>{{ committee.role }}</h3>
                   <ul>
                     {% for member in committee.member %}
-                      <ul><p><b>{{ member.name }}</b>, <i>{{member.affil}}</i></p></ul>
+                      <ul><b>{{ member.name }}</b>, <i>{{member.affil}}</i></ul>
                     {% endfor %}
                   </ul>
                   {% endfor %}
