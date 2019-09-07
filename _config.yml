@@ -22,8 +22,8 @@ navitem:
     url: "#venue"
   - name: Committee
     url: "#committee"
-  - name: Previous
-    url: "https://abc-research.github.io/2019"
+  - name: Related
+    url: "#related"
   
 
 # Google webmaster tools
