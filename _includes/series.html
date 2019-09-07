@@ -8,13 +8,13 @@
                 </div>
             </div>
             <div class="row">
-              <ul>
                 <div class="col-lg-12">
-                  {% for item in site.series %}
-                  <li><a href="{{item.url}}">{{item.text}}</a></li>
-                  {% endfor %}
+                  <ul>
+                    {% for item in site.series %}
+                    <li><a href="{{item.url}}">{{item.text}}</a></li>
+                    {% endfor %}
+                  </ul>
                 </div>
-              </ul>
             </div>
         </div>
     </section>
