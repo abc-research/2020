@@ -5,7 +5,7 @@
     {% include nav.html %}
 
     {% for item in site.include %}
-        {% include {item.file}%}
+        {% include {{item.file}}%}
     {% endfor %}
         
     {% include header.html %}
@@ -14,6 +14,7 @@
     {% include venue.html %}    
     {% include committee.html %}
     {% include series.html %}
+        
     {% include modals.html %}
     {% include js.html %}
 
