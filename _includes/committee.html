@@ -12,9 +12,11 @@
 
                   {% for committee in site.committee %}
                   <h3>{{ committee.role }}</h3>
+                  <ul>
                     {% for member in committee.member %}
-                      <p><b>{{ member.name }}</b>, <i>{{member.affil}}</i></p>
+                      <ul><p><b>{{ member.name }}</b>, <i>{{member.affil}}</i></p></ul>
                     {% endfor %}
+                  </ul>
                   {% endfor %}
                 </div>
                 <div class="col-lg-4">
