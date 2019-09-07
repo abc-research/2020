@@ -8,8 +8,7 @@
     {% include header.html %}
         
     {% for item in site.includes %}
-        dd.file
-        {{item.file}}
+        {% include {{item.file}} %}
     {% endfor %}
         
     {% include about.html %}
