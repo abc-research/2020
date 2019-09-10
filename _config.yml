@@ -103,11 +103,11 @@ committee:
         affil: Karlsruhe Institute of Technology, Germany
       - name: Jeffry Cohn
         affil: University of Pittsburgh, USA
+      - name: Nobuo Kawaguchi
+        affil: Nagoya University, Japan
   - role: Secretaries (Tentative)
     member:
       - name: Tahera Hossain
-        affil: Kyushu Institute of Technology, Japan
-      - name: Moe Matsuki
         affil: Kyushu Institute of Technology, Japan
   - role: Program Committee (Tentative)
     member:
