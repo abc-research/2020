@@ -85,11 +85,11 @@ committee:
         affil: Tokyo University of Agriculture and Technology, Japan
   - role: Publicity Chair (Tentative)
     member:
-      - name: Paula Lago
-        affil: Kyushu Institute of Technology, Japan
+      - name: Brahim Benaissa
+        affil: Kyushu Institute of Technology, Japan    
   - role: Publication Chair (Tentative)
     member:
-      - name: Tsuyoshi Okita
+      - name: Paula Lago
         affil: Kyushu Institute of Technology, Japan
   - role: Advisory Board (Tentative)
     member:
@@ -107,9 +107,15 @@ committee:
         affil: University of Washinton, USA
       - name: Nobuo Kawaguchi
         affil: Nagoya University, Japan
-  - role: Secretaries (Tentative)
+  - role: Secretaries
     member:
       - name: Tahera Hossain
+        affil: Kyushu Institute of Technology, Japan
+      - name: Moe Matsuki
+        affil: Kyushu Institute of Technology, Japan
+      - name: Nattaya Mairittha
+        affil: Kyushu Institute of Technology, Japan
+      - name: Tittaya Mairittha
         affil: Kyushu Institute of Technology, Japan
   - role: Program Committee (Tentative)
     member:
