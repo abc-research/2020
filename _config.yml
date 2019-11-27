@@ -155,8 +155,8 @@ committee:
         affil: Osaka University, Japan
       - name: Ricky J Sethi
         affil: Fitchburg State University, USA
-      - name: Meng Joo
-        affil: Nanyang Technological University, Singapore
+#      - name: Meng Joo
+#        affil: Nanyang Technological University, Singapore
       - name: Ikuhisa Mitsugami
         affil: Hiroshima City University, Japan
       - name: Mohiuddin Ahmad	Khulna
@@ -165,6 +165,14 @@ committee:
         affil: University of Meryland, College Park, USA
       - name: Atsushi Shimada
         affil: Kyushu University, Japan
+#      - name: Phond Phunchongharn
+#        affil: KMUTT, Thailand
+#      - name: Liming Chen
+#        affil: Ulster University, UK
+#      - name: Christopher Nugent
+#        affil: Ulster University, UK
+#      - name: Guillaume Lopez
+#        affil: Aoyama Gakuin University, Japan
 
 
 
