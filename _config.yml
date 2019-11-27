@@ -197,7 +197,6 @@ cfp:
     - item: "Survey paper: "
     - item: "Challenge paper: TBA"
   format: 
-     - item: TBA
      - item: "Regular paper: maximum 12 pages"
      - item: "Position paper: maximum 6 pages"
      - item: "Survey paper: at least 10 pages"
