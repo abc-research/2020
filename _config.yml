@@ -192,21 +192,21 @@ cfp:
     - item: Tools for industry
     - item: ABC in the wild
   category:
-    - item: Regular paper: 
-    - item: Position paper: 
-    - item: Survey paper: 
-    - item: Challenge paper: TBA
+    - item: "Regular paper: "
+    - item: "Position paper: "
+    - item: "Survey paper: "
+    - item: "Challenge paper: TBA"
   format: 
      - item: TBA
-     - item: Regular paper: maximum 12 pages
-     - item: Position paper: maximum 6 pages
-     - item: Survey paper: at least 10 pages
-     - item: Challenge paper: TBA
+     - item: "Regular paper: maximum 12 pages"
+     - item: "Position paper: maximum 6 pages"
+     - item: "Survey paper: at least 10 pages"
+     - item: "Challenge paper: TBA"
 #    - item: IEEE conference format (button below).
 #    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
-     - item: Please use Springer Contributed Book format (button below for the LaTeX template).
-     - item: Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC.
+     - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
+     - item: "Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC."
   dates:
     - name: Paper submission
       date: Jan. 17th, 2020 (Anywhere on Earth)!
@@ -217,7 +217,7 @@ cfp:
     - name: Conference
       date: Jun., 22nd - Jun. 25th, 2020
   submit_url: TBA
-  template_url: TBA
+  template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
 
 venue:
   - text: ABC2020 will be held in Kitakyushu-city, Fukuoka, Japan. There are many natural and industrial attractions.
