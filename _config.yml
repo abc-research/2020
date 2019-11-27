@@ -192,10 +192,10 @@ cfp:
     - item: Tools for industry
     - item: ABC in the wild
   category:
-    - item: Regular paper
-    - item: Position paper
-    - item: Survey paper
-    - item: Challenge paper
+    - item: Regular paper: 
+    - item: Position paper: 
+    - item: Survey paper: 
+    - item: Challenge paper: 
   format: 
      - item: TBA
 #    - item: IEEE conference format (button below).
