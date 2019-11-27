@@ -83,11 +83,11 @@ committee:
         affil: University of Sussex, UK
       - name: Kaori Fujinami
         affil: Tokyo University of Agriculture and Technology, Japan
-  - role: Publicity Chair (Tentative)
+  - role: Publicity Chair
     member:
       - name: Brahim Benaissa
         affil: Kyushu Institute of Technology, Japan    
-  - role: Publication Chair (Tentative)
+  - role: Publication Chair
     member:
       - name: Paula Lago
         affil: Kyushu Institute of Technology, Japan
@@ -191,6 +191,11 @@ cfp:
     - item: Business applications
     - item: Tools for industry
     - item: ABC in the wild
+  category:
+    - item: Regular paper
+    - item: Position paper
+    - item: Survey paper
+    - item: Challenge paper
   format: 
      - item: TBA
 #    - item: IEEE conference format (button below).
