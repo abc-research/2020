@@ -181,6 +181,11 @@ cfp:
   text:
     - text: "We welcome full technical papers, as well as position papers related to ABC research. Technical papers describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. Concept papers describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
     - text: "The submitted papers are peer reviewed by experienced researchers, and accepted based on the research quality." # To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers."
+    - text: "The submitted papers are peer reviewed by expert researchers, and accepted based on the research quality." 
+#    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+    - text: "Accepted papers will be included in Springer books (TBD)."
+    - text: "Selected papers will be invited to submit to the Pattern Recognition Letters journal (5-Year Impact Factor: 2.350) and to International Journal on Computer Vision and Signal Processing."
   scope:
     - item: Mobile sensor-based ABC
     - item: Environmental sensor-based ABC
@@ -201,10 +206,10 @@ cfp:
     - item: Tools for industry
     - item: ABC in the wild
   category:
-    - item: "Regular paper: "
-    - item: "Position paper: "
-    - item: "Survey paper: "
-    - item: "Challenge paper: TBA"
+    - item: "Regular papers: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
+    - item: "Position papers: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
+    - text: "Survey papers: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
+    - text: "Challenge papers: TBA, but we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
   format: 
      - item: "Regular paper: maximum 12 pages"
      - item: "Position paper: maximum 6 pages"
