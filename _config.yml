@@ -201,8 +201,8 @@ cfp:
   category:
     - item: "Regular papers: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
     - item: "Position papers: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
-    - text: "Survey papers: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
-    - text: "Challenge papers: TBA, we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
+    - item: "Survey papers: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
+    - item: "Challenge papers: TBA, we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
   format: 
      - item: "Regular papers: maximum 12 pages"
      - item: "Position papers: maximum 6 pages"
