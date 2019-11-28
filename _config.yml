@@ -173,6 +173,8 @@ committee:
 #        affil: Ulster University, UK
       - name: Christopher Nugent
         affil: Ulster University, UK
+      - name: François Charpillet 
+        affil: INRIA, France
 
 cfp:
   text:
