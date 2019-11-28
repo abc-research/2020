@@ -180,7 +180,7 @@ committee:
 cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are peer reviewed by expert researchers, and accepted based on the research quality. Accepted papers will be included in Springer books (TBD). Selected papers will be invited to submit to the Pattern Recognition Letters journal (5-Year Impact Factor: 2.350) and to International Journal on Computer Vision and Signal Processing. 
-    #    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
+#    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
     - item: Environmental sensor-based ABC
@@ -204,12 +204,12 @@ cfp:
     - item: "Regular papers: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
     - item: "Position papers: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
     - text: "Survey papers: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
-    - text: "Challenge papers: TBA, but we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
+    - text: "Challenge papers: TBA, we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
   format: 
-     - item: "Regular paper: maximum 12 pages"
-     - item: "Position paper: maximum 6 pages"
-     - item: "Survey paper: at least 10 pages"
-     - item: "Challenge paper: TBA"
+     - item: "Regular papers: maximum 12 pages"
+     - item: "Position papers: maximum 6 pages"
+     - item: "Survey papers: at least 10 pages"
+     - item: "Challenge papers: TBA"
 #    - item: IEEE conference format (button below).
 #    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
