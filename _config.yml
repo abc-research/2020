@@ -199,15 +199,15 @@ cfp:
     - item: Tools for industry
     - item: ABC in the wild
   category:
-    - item: "Regular papers: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
-    - item: "Position papers: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
-    - item: "Survey papers: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
-    - item: "Challenge papers: TBA, we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
+    - item: "<b>Regular papers</b>: full technical contents which describe the accuracy and performance of ABC Systems, real deployment cases or application of new paradigms such as deep learning to ABC. "
+    - item: "<b>Survey papers</b>: new perspective or new challenges in ABC based on literature survey. We do not welcome just compilations of existing research, but do if it provides new research horizons."
+    - item: "<b>Challenge papers</b>: TBA, we will provide a dataset and accept results for activity recognition and papers describing the methods and the results."
+    - item: "<b>Position papers</b>: describe the challenges and future directions of ABC based on  problems that arise when systems are deployed in real settings."
   format: 
-     - item: "Regular papers: maximum 12 pages"
-     - item: "Position papers: maximum 6 pages"
-     - item: "Survey papers: at least 10 pages"
-     - item: "Challenge papers: TBA"
+     - item: "<b>Regular papers</b>: 8-20 pages in single column"
+     - item: "<b>Survey papers</b>: 10-20 pages in single column"
+     - item: "<b>Challenge papers</b>: 4-10 pages in single column"
+     - item: "<b>Position papers</b>:  4-10 pages in single column"
 #    - item: IEEE conference format (button below).
 #    - item: "4-6 pages: The authors can choose to give copyright to IEEE then the paper will be sent to IEEE Xplore as ICIEV-IVPR 2020 proceedings. "
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
