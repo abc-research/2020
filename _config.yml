@@ -174,12 +174,9 @@ committee:
       - name: Christopher Nugent
         affil: Ulster University, UK
 
-
-
-
 cfp:
   text:
-    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are peer reviewed by expert researchers, and accepted based on the research quality. Accepted papers will be included in Springer books (TBD). Selected papers will be invited to submit to the Pattern Recognition Letters journal (5-Year Impact Factor: 2.350) and to International Journal on Computer Vision and Signal Processing. 
+    - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are peer reviewed by expert researchers, and accepted based on the research quality. Accepted papers will be included in Springer books (TBD). Selected papers will be invited to submit to the Pattern Recognition Letters journal (5-Year Impact Factor: 2.350) and to International Journal on Computer Vision and Signal Processing. "
 #    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
     - item: Mobile sensor-based ABC
