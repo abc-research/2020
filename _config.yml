@@ -224,19 +224,19 @@ cfp:
      - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
      - item: "Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC."
   dates:
-    - name: [Regular/Survey/Position] Paper submission
+    - name: "[Regular/Survey/Position] Paper submission"
       date: Jan. 17th, 2020 (Anywhere on Earth)!
-    - name: Review result
+    - name: "Review result"
       date: Mar. 13th, 2020
-    - name: [Challenge] Result submission
+    - name: "[Challenge] Result submission"
       date: Mar. 18th, 2020
-    - name: [Challenge] Paper submission
+    - name: "[Challenge] Paper submission"
       date: Mar. 25th, 2020
-    - name: [Challenge] Review result
+    - name: "[Challenge] Review result"
       date: Apr. 6th, 2020
-    - name: [Regular/Survey/Position/Challenge] Camera ready
+    - name: "[Regular/Survey/Position/Challenge] Camera ready"
       date: Apr. 20th, 2020
-    - name: Conference
+    - name: "Conference"
       date: Jun. 22nd - Jun. 25th, 2020
   submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
   template_url: https://resource-cms.springernature.com/springer-cms/rest/v1/content/20568/data/v8
