@@ -179,6 +179,8 @@ committee:
         affil: INRIA, France
       - name: Maria Del Pilar Villamil Giraldo
         affil: University of Los Andes, Colombia
+      - name: Shoji Kobashi
+        affil: University of Hyogo, Japan
 
 cfp:
   text:
