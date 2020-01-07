@@ -170,8 +170,6 @@ committee:
         affil: Aoyama Gakuin University, Japan        
       - name: Atsushi Nakazawa
         affil: Kyoto University, Japan
-#      - name: Phond Phunchongharn
-#        affil: KMUTT, Thailand
       - name: Liming Chen
         affil: Ulster University, UK
       - name: Christopher Nugent
@@ -182,6 +180,8 @@ committee:
         affil: University of Los Andes, Colombia
       - name: Shoji Kobashi
         affil: University of Hyogo, Japan
+      - name: Phond Phunchongharn
+        affil: KMUTT, Thailand
 
 cfp:
   text:
