@@ -27,6 +27,7 @@ navitem:
     
 includes:
   - file: header.html
+  - file: sponsors.html
   - file: about.html
   - file: cfp.html
   - file: venue.html
