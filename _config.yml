@@ -17,7 +17,9 @@ navitem:
   - name: About
     url: "#about"
   - name: CFP
-    url: "#cfp"
+    url: "#cfp" 
+  - name: Challenge
+    url: "https://abc-research.github.io/cook2020/"
   - name: Venue
     url: "#venue"
   - name: Committee
