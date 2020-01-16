@@ -188,7 +188,7 @@ committee:
 cfp:
   text:
     - text: "We welcome 4 categories of papers: regular  papers, position papers, survey papers, and challenge papers. The submitted papers are <u>peer reviewed</u> by expert researchers, and accepted based on the research quality."
-    - text: "Accepted papers will be included in <u>Springer Books</u> (TBD, IEEE Xplore and SCOPUS indexed). "
+    - text: "Accepted papers will be included in the <a href="https://www.springer.com/series/8767">Smart Innovation, Systems and Technologies</a> series of Springer (Indexed in ISI Proceedings, EI-Compendex, SCOPUS, Google Scholar and Springerlink). "
     - text: "Selected papers will be invited to submit to the <u>Pattern Recognition Letters</u> journal (5-Year Impact Factor: 2.350) and to <u>International Journal on Computer Vision and Signal Processing</u>."
 #    - text: To accept various research stages, an accepted paper can be either published in IEEE proceedings + USB, Open web + USB, or USB only upon authors' preference."
   scope:
