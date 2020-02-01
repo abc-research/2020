@@ -228,14 +228,14 @@ cfp:
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
       date: <strike>Jan. 17th, 2020</strike> <b style="color:pink">Feb. 28th, 2020</b> (Anywhere on Earth)!
-    - name: "Review result"
-      date: Mar. 13th, 2020
     - name: "[Challenge] Result submission"
       date: Mar. 18th, 2020
     - name: "[Challenge] Paper submission"
       date: Mar. 25th, 2020
     - name: "[Challenge] Review result"
       date: Apr. 6th, 2020
+    - name: "Review result"
+      date: <strike>Mar. 13th, 2020</strike> Apr. 20th, 2020
     - name: "[Regular/Survey/Position/Challenge] Camera ready"
       date: Apr. 20th, 2020
     - name: "Conference"
