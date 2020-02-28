@@ -225,6 +225,7 @@ cfp:
 #    - item: "2-6 pages: The authors can choose not for IEEE and hence, copyright is not transfered."
      - item: "Please use Springer Contributed Book format (button below for the LaTeX template)."
      - item: "Submit from Microsoft CMT for ICIEV2020  (button below) and select the ABC."
+     - item: "Note that the <b>author information should be removed</b> from the paper, for double blind reviews."
   dates:
     - name: "[Regular/Survey/Position] Paper submission"
       date: <strike>Jan. 17th, 2020</strike> <b style="color:pink">Feb. 28th, 2020</b> (Anywhere on Earth)!
