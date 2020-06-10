@@ -85,7 +85,7 @@ accepted:
       authors: authors0
     - title: title
       authors: authors
-  - category: Non-archival Paper
+  - category: "Non-archival Paper"
     - title: title2
      authors: authors2
 
