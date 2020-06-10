@@ -79,7 +79,7 @@ about:
 
 # accepted papers (temporary)
 accepted:
-  - category: Regular Paper
+  - category: Regular Papers
     paper: 
     - title:	Improvement of Human Action Recognition Using 3D Pose Estimation
       authors:	Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Kyushu Institute of Technology ); Tsuyoshi Okita (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
@@ -88,7 +88,7 @@ accepted:
     - title:	"Human Pose Tracking by Fusing Human Joint Positions from Multiple Kinect 3 : New Results"
       authors:	"Jessica Colombel (Inria)*; David Daney (Inria); Vincent Bonnet (Univ Paris Est Creteil, LISSI); Francois Charpillet (Inria)"
     - title:	Investigating Correlations Between Usage of Communication Apps and Instant Messengern and a Smartphone User's Extraversion
-      authors:	Anja Exler (Karlsruhe Institute of Technology)*; Tobias Hornberger (Karlsruhe Institute of Technology (KIT)); Michael Beigl (?)
+      authors:	Anja Exler (Karlsruhe Institute of Technology)*; Tobias Hornberger (Karlsruhe Institute of Technology (KIT)); Michael Beigl (KIT)
     - title:	Multilabel Classification of Nursing Activities in a Realistic Scenario
       authors:	Farina Faiz (Kyushu Institute of Technology)*; Yoshinori Ideno (Global business division, CARECOM CO.,LTD ); Hiromichi Iwasaki (Dept of Infection Control and Prevention, University of Fukui Hospital); Yoko  Muroi (Dept of Infection Control and Prevention, University of Fukui Hospital); Sozo Inoue (Kyushu Institute of Technology)
     - title:	Improving Smartphone based Transport Mode Recognition using Generative Adversarial Networks
@@ -117,7 +117,7 @@ accepted:
       authors:	Mitsuaki Saito (Tokyo University of Agriculture and Technology)*; Kaori Fujinami (Tokyo University of Agriculture and Technology)
     - title:	Biological and Behavioral Information-based Method of Predicting Listener Emotions toward Speaker Utterances during Group Discussion
       authors:	Motoki Sakai (Tokyo Denki University)*; Masaki Shuzo (Tokyo Denki University); Masahide Yuasa (Shonan Institute of Technology); Kanae Matsui (Tokyo Denki University); Eisaku Maeda (Tokyo Denki University)
-  - category: "Non-archival Paper"
+  - category: "Non-archival Papers"
     paper:
     - title:	Exploring the use of accelerometer for assisting weight lifting exercise
       authors:	Nour Alhuda Al bougha (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology); brahim benaissa (kyushu institute of technology)
@@ -126,7 +126,7 @@ accepted:
     - title:	Improving Smartphone-Based Activity Recognition Based On A User's Work Context
       authors:	Anja Exler (Karlsruhe Institute of Technology)*; Benedikt Dahm (Karlsruhe Institute of Technology (KIT)); Michael Beigl (?)
     - title:	Data Driven Analysis of the Behaviour of Elderly People Using k-Means and Home Automation and Power Consumption Sensors
-      authors:	Björn Friedrich (Carl von Ossietzky Universität)*; Enno-Edzard Steen (Carl von Ossietzky Universität); 博彦 諏訪 (奈良先端科学技術大学院大学); Andreas Hein (Carl von Ossietzky Universität); Keiichi Yasumoto (Nara Institute of Science and Technology, Japan)
+      authors:	Björn Friedrich (Carl von Ossietzky Universität)*; Enno-Edzard Steen (Carl von Ossietzky Universität); Hirohiko Suwa (Nara Institute of Science and Technology); Andreas Hein (Carl von Ossietzky Universität); Keiichi Yasumoto (Nara Institute of Science and Technology, Japan)
     - title:	Towards Mapping Activity Classes for Transfer Learning in Human Activity Recognition
       authors:	Md Shafiqul Islam (Kyushu Institute of Technology)*; Sayeda Shamma Alia (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
     - title:	Towards Automatic Waistline Measurement with A Smartwatch
