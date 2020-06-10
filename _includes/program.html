@@ -11,7 +11,8 @@
                 {% for accepted in site.accepted %}
                     <h3>{{ accepted.category }}</h3>
                     {% for paper in accepted.paper %}
-                        <b>{{ paper.title }}</b>, <i>{{paper.authors}}</i><br/>
+                        <b>{{ paper.title }}</b><br/>
+                        <i>{{paper.authors}}</i><br/>
                     {% endfor %}
                 {% endfor %}
             </div>
