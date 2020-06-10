@@ -9,7 +9,7 @@
              
                 {% for category in accepted %}
                     <h3>{{ category.name }}</h3>
-                    {% for paper in category %}
+                    {% for paper in category.papers %}
                         <b>{{ paper.title }}</b>, <i>{{paper.authors}}</i><br/>
                     {% endfor %}
                 {% endfor %}
