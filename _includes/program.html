@@ -6,10 +6,11 @@
                     <h2>Accepted Papers</h2>
                     <hr class="star-light">
                 </div>
+
              
-                {% for category in accepted %}
-                    <h3>{{ category.name }}</h3>
-                    {% for paper in category.papers %}
+                {% for accepted in site.accepted %}
+                    <h3>{{ accepted.category }}</h3>
+                    {% for paper in accepted.paper %}
                         <b>{{ paper.title }}</b>, <i>{{paper.authors}}</i><br/>
                     {% endfor %}
                 {% endfor %}
