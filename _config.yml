@@ -240,7 +240,7 @@ cfp:
     - name: "Resubmission for conditionally accepted paper"
       date: May 25th, 2020
     - name: "[Regular/Survey/Position/Challenge] Camera ready and Registration"
-      date: <strike>Apr. 20th, 2020</strike> June 15th, 2020
+      date: <strike>Apr. 20th, 2020</strike> <strike>June 15th, 2020</strike> June 19th, 2020
     - name: "Conference"
       date: <strike>Jun. 22nd - Jun. 25th, 2020</strike> <b style="color:pink">Aug. 26-29, 2020</b>
   submit_url: https://cmt3.research.microsoft.com/IVPRICIEV2020/Track/3/Submission/Create
