@@ -79,15 +79,15 @@ about:
 
 # accepted papers (temporary)
 accepted:
-  - category: 
-    - name: Regular Paper
-      papers: 
-      - title: title
-      - authors: authors
-    - name: Non-archival Paper
-      papers: 
-      - title: title2
-      - authors: authors2
+  - category: Regular Paper
+    paper: 
+    - title: title0
+    - authors: authors0
+    - title: title
+    - authors: authors
+  - category: Non-archival Paper
+    - title: title2
+    - authors: authors2
 
 # Committee members
 committee:
