@@ -87,7 +87,7 @@ accepted:
       authors: authors
   - category: "Non-archival Paper"
     - title: title2
-     authors: authors2
+      authors: authors2
 
 # Committee members
 committee:
