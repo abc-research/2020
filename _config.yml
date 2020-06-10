@@ -82,12 +82,12 @@ accepted:
   - category: Regular Paper
     paper: 
     - title: title0
-    - authors: authors0
+      authors: authors0
     - title: title
-    - authors: authors
+      authors: authors
   - category: Non-archival Paper
     - title: title2
-    - authors: authors2
+     authors: authors2
 
 # Committee members
 committee:
