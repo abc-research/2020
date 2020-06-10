@@ -95,7 +95,7 @@ accepted:
       authors:	Lukas Gunthermann (University of Sussex)*; Daniel Roggen (University of Sussex); Andrew Philippides (University of Sussex)
     - title:	In-shoe motion sensor for initial contact and toe-off event detection
       authors:	Chenhui Huang (NEC)*; Kenichiro Fukushi (NEC); Zhenwei Wang (NEC); Hiroshi Kajitani (NEC); Kentaro Nakahara (NEC)
-    - title:	ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor
+    - title:	"ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor"
       authors:	Shun Ishii (Aoyama Gakuin University)*; Kizito Nkurikiyeyezu (Aoyama Gakuin University); Mika Luimula (Turku University of Applied Sciences); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)
     - title:	Exploring Human Activity by Using eSense Earable Device
       authors:	Md Shafiqul Islam (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); M.A.R. Ahad (University of Dhaka); Sozo Inoue (Kyushu Institute of Technology)
