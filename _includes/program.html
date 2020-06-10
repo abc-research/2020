@@ -3,9 +3,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Program</h2>
+                    <h2>Accepted Papers</h2>
                     <hr class="star-light">
                 </div>
+             
+                {% for category in accepted %}
+                    <h3>{{ category.name }}</h3>
+                    {% for paper in category %}
+                        <b>{{ paper.title }}</b>, <i>{{paper.authors}}</i><br/>
+                    {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </section>
