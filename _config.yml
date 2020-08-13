@@ -18,7 +18,7 @@ navitem:
     url: "#about"
   - name: Registration
     url: "https://sites.google.com/view/iciev-abc-2020-payment"
-  - name: Papers
+  - name: Program
     url: "#program"
 #  - name: CFP
 #    url: "#cfp" 
