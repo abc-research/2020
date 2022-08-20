@@ -12,7 +12,9 @@ date: <strike>Jun. 22nd - 25th, 2020</strike> <b style="color:pink"> Aug. 26-29,
 conjunction:
   name: ICIEV&IVPR2020
   url: http://cennser.org/ICIEV/
-  
+addition: <a href="https://link.springer.com/book/10.1007/978-981-15-8944-7"><b style="color:yellow">Pulbished book is HERE!</b></a>
+
+
 navitem:
   - name: About
     url: "#about"
