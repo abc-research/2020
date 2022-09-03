@@ -83,41 +83,41 @@ about:
 accepted:
   - category: Regular Papers
     paper: 
-    - title:	Improvement of Human Action Recognition Using 3D Pose Estimation
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_2'><b style='color:white'>Improvement of Human Action Recognition Using 3D Pose Estimation</b></a>
       authors:	Kohei Adachi (Kyushu Institute of Technology)*; Paula Lago (Kyushu Institute of Technology ); Tsuyoshi Okita (Kyushu Institute of Technology); Sozo Inoue (Kyushu Institute of Technology)
-    - title:	Reducing Energy Consumption by Behavioural Change – It is possible!
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_16'><b style='color:white'>Reducing Energy Consumption by Behavioural Change</b></a>
       authors:	Dietrich Albert (University of Graz & Graz University of Technology)*; Michael Bedek (University of Graz & Graz University of Technology); Wolfgang Horn (Horn Consult, Leibnitz)
-    - title:	"Human Pose Tracking by Fusing Human Joint Positions from Multiple Kinect 3 : New Results"
+    - title:	"<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_8'><b style='color:white'>Markerless 3D Human Pose Tracking in the Wild with Fusion of Multiple Depth Cameras: Comparative Experimental Study with Kinect 2 and 3</b></a>"
       authors:	"Jessica Colombel (Inria)*; David Daney (Inria); Vincent Bonnet (Univ Paris Est Creteil, LISSI); Francois Charpillet (Inria)"
-    - title:	Investigating Correlations Between Usage of Communication Apps and Instant Messengern and a Smartphone User's Extraversion
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_14'><b style='color:white'>Investigating Correlations Between Usage of Communication Apps and Instant Messenger and a Smartphone User’s Extraversion</b></a>
       authors:	Anja Exler (Karlsruhe Institute of Technology)*; Tobias Hornberger (Karlsruhe Institute of Technology (KIT)); Michael Beigl (KIT)
-    - title:	Multilabel Classification of Nursing Activities in a Realistic Scenario
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_17'><b style='color:white'>Multilabel Classification of Nursing Activities in a Realistic Scenario</b></a>
       authors:	Farina Faiz (Kyushu Institute of Technology)*; Yoshinori Ideno (Global business division, CARECOM CO.,LTD ); Hiromichi Iwasaki (Dept of Infection Control and Prevention, University of Fukui Hospital); Yoko  Muroi (Dept of Infection Control and Prevention, University of Fukui Hospital); Sozo Inoue (Kyushu Institute of Technology)
-    - title:	Improving Smartphone based Transport Mode Recognition using Generative Adversarial Networks
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_5'><b style='color:white'>Improving Smartphone-Based Transport Mode Recognition Using Generative Adversarial Networks</b></a>
       authors:	Lukas Gunthermann (University of Sussex)*; Daniel Roggen (University of Sussex); Andrew Philippides (University of Sussex)
-    - title:	In-shoe motion sensor for initial contact and toe-off event detection
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_7'><b style='color:white'>Initial Contact and Toe-Off Event Detection Method for In-Shoe Motion Sensor</b></a>
       authors:	Chenhui Huang (NEC)*; Kenichiro Fukushi (NEC); Zhenwei Wang (NEC); Hiroshi Kajitani (NEC); Kentaro Nakahara (NEC)
-    - title:	"ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor"
+    - title:	"<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_15'><b style='color:white'>ExerSense: Real-Time Physical Exercise Segmentation, Classification, and Counting Algorithm Using an IMU Sensor</b></a>"
       authors:	Shun Ishii (Aoyama Gakuin University)*; Kizito Nkurikiyeyezu (Aoyama Gakuin University); Mika Luimula (Turku University of Applied Sciences); Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University)
-    - title:	Exploring Human Activity by Using eSense Earable Device
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_11'><b style='color:white'>Exploring Human Activities Using eSense Earable Device</b></a>
       authors:	Md Shafiqul Islam (Kyushu Institute of Technology)*; Tahera Hossain (Kyushu Institute of Technology); M.A.R. Ahad (University of Dhaka); Sozo Inoue (Kyushu Institute of Technology)
-    - title:	Classification Method of Eating Behavior by Dietary Sound Collected in Natural Meal Environment
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_9'><b style='color:white'>Classification Method of Eating Behavior by Dietary Sound Collected in Natural Meal Environment</b></a>
       authors:	Haruka Kamachi (Aoyama Gakuin University)*; Anna Yokokubo (Aoyama Gakuin University); Guillaume Lopez (Aoyama Gakuin University); Takumi Kondo (Aoyama Gakuin University)
-    - title:	Estimation of Record Contents for Automatic Generation of Care Records
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_18'><b style='color:white'>Estimation of Record Contents for Automatic Generation of Care Records</b></a>
       authors:	Haru Kaneko (Kyushu Institute of Technology); Tahera Hossain (Kyushu Institute of Technology); Tahera Hossain (Kyushu Institute of Technology)*; Sozo Inoue (Kyushu Institute of Technology)
-    - title:	"Head-AR: Human Activity Recognition with Head Mounted IMU Using Weighted Ensemble Learning"
+    - title:	"<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_10'><b style='color:white'>Head-AR: Human Activity Recognition with Head-Mounted IMU Using Weighted Ensemble Learning</b></a>"
       authors:	Ivana Kiprijanovska (Institute Jozef Stefan); Simon Stankoski (Institute Jozef Stefan); Stefan Kalabakov (Institute Jozef Stefan); Martin Gjoreski (Institute Jozef Stefan); Hristijan Gjoreski (Ss. Cyril and Methodius University)*
-    - title:	Accuracy of Motion Estimation using Sparse Set IMUs in Gait Analysis
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_4'><b style='color:white'>Accuracy Evaluation of Human Gait Estimation by a Sparse Set of Inertial Measurement Units</b></a>
       authors:	"Tsubasa Maruyama (National Institute of Advanced Industrial Science and Technology)*; Haruki Toda (	National Institute of Advanced Industrial Science and Technology); Suguru Kanoga (AIST); Mitsunori Tada (National Institute of Advanced Industrial Science and Technology); Yui Endo (National Institute of Advanced Industrial Science and Technology)"
-    - title:	A Basic study on Ballroom Dance Figure Classification with LSTM Using Multi-modal Sensor
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_13'><b style='color:white'>A Basic Study on Ballroom Dance Figure Classification with LSTM Using Multi-modal Sensor</b></a>
       authors:	Hitoshi Matsuyama (Nagoya University)*; Kei Hiroi (Nagoya University); Katsuhiko Kaji (Aichi Institute of Technology); Takuro Yonezawa (Nagoya University); Nobuo Kawaguchi (Nagoya University)
-    - title:	3D Pose Estimation Using Multiple Asynchronous Cameras
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_3'><b style='color:white'>3D Pose Estimation Using Multiple Asynchronous Cameras</b></a>
       authors:	Takashi Morimoto (Hiroshima City University); Ikuhisa Mitsugami (Hiroshima City University)*
-    - title:	Mapping Vicon Motion Tracking to 6-axis IMU Data for Wearable Activity Recognition
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_1'><b style='color:white'>Mapping Vicon Motion Tracking to 6-Axis IMU Data for Wearable Activity Recognition</b></a>
       authors:	Lloyd Pellatt (University of Sussex)*; Alex Dewar (University of Sussex); Andrew Philippides (University of Sussex); Daniel Roggen (University of Sussex)
-    - title:	New Class Candidate Generation applied to On-Body Smartphone Localization
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_6'><b style='color:white'>New Class Candidate Generation Applied to On-Body Smartphone Localization</b></a>
       authors:	Mitsuaki Saito (Tokyo University of Agriculture and Technology)*; Kaori Fujinami (Tokyo University of Agriculture and Technology)
-    - title:	Biological and Behavioral Information-based Method of Predicting Listener Emotions toward Speaker Utterances during Group Discussion
+    - title:	<a href='https://link.springer.com/chapter/10.1007/978-981-15-8944-7_12'><b style='color:white'>Biological and Behavioral Information-Based Method of Predicting Listener Emotions Toward Speaker Utterances During Group Discussion</b></a>
       authors:	Motoki Sakai (Tokyo Denki University)*; Masaki Shuzo (Tokyo Denki University); Masahide Yuasa (Shonan Institute of Technology); Kanae Matsui (Tokyo Denki University); Eisaku Maeda (Tokyo Denki University)
   - category: "Non-archival Papers"
     paper:
